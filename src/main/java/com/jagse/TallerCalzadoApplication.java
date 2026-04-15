@@ -8,7 +8,6 @@ public class TallerCalzadoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TallerCalzadoApplication.class, args);
-		System.out.println();
 	}
 
 }
